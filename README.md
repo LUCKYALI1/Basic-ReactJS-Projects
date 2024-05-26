@@ -8,13 +8,13 @@ This repository contains a collection of basic ReactJS projects that demonstrate
 
 # Getting Started:
 
-##Clone the repository:
+## Clone the repository:
 git clone https://github.com/your-username/basic-reactjs-projects.git
-##Navigate to the project directory:
+## Navigate to the project directory:
 cd basic-reactjs-projects
-##Install dependencies for each project:
+## Install dependencies for each project:
 npm install
-##Run the project:
+## Run the project:
 npm run dev
 
 Contributing:
