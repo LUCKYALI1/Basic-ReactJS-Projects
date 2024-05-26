@@ -19,5 +19,5 @@ This is a simple React application that allows users to change the background co
 ### 4-Run the project:
    `npm run dev`
 
-Contributing:
+### Contributing:
 Feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvements.
