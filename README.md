@@ -11,7 +11,7 @@ This is a simple React application that allows users to change the background co
 # Getting Started:
 
 ### Clone the repository:
-git clone https://github.com/your-username/basic-reactjs-projects.git
+`#ffffff`git clone https://github.com/your-username/basic-reactjs-projects.git
 ### Navigate to the project directory:
 cd basic-reactjs-projects
 ### Install dependencies for each project:
