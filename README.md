@@ -5,8 +5,10 @@ This repository contains a collection of basic ReactJS projects that demonstrate
 # Projects Included
 ### 1-Counter
 This is a simple counter application built with React. It demonstrates fundamental concepts of React such as component state, event handling, and rendering.
-### 2-bgColorChanger
+### 2-BgColorChanger
 This is a simple React application that allows users to change the background color of the page by selecting a color from a palette.
+### 3-PasswordGenerator
+This is a basic React application that allows users to generate the password , in this we have used basic concepts likes hooks (useCallback , useRef , useEffect).
 
 # Getting Started:
 
