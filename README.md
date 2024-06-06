@@ -9,6 +9,8 @@ This is a simple counter application built with React. It demonstrates fundament
 This is a simple React application that allows users to change the background color of the page by selecting a color from a palette.
 ### 3-PasswordGenerator
 This is a basic React application that allows users to generate the password , in this we have used basic concepts likes hooks (useCallback , useRef , useEffect).
+### 4-CurrencyConverter
+This is a basic React  Application that convert the amount to different currenecy using the api , in this i have created custom hooks and used in it . in future i will add some more features to it so this could be work with full efficiency.
 
 # Getting Started:
 
@@ -20,6 +22,5 @@ This is a basic React application that allows users to generate the password , i
    `npm install`
 ### 4-Run the project:
    `npm run dev`
-
 ### Contributing:
 Feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvements.
