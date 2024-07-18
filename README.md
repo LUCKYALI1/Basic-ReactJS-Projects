@@ -11,6 +11,8 @@ This is a simple React application that allows users to change the background co
 This is a basic React application that allows users to generate the password , in this we have used basic concepts likes hooks (useCallback , useRef , useEffect).
 ### 4-CurrencyConverter
 This is a basic React  Application that convert the amount to different currenecy using the api , in this i have created custom hooks and used in it . in future i will add some more features to it so this could be work with full efficiency.
+### 5-ReactRouter
+This project demonstrates the use of React Router to create a single-page application (SPA) with multiple routes. React Router is a powerful library for client-side routing in React applications, allowing for seamless navigation without refreshing the page.
 
 # Getting Started:
 
