@@ -13,10 +13,10 @@ This project demonstrates the use of React's Context API for efficient state man
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/contextapi-project.git
-2.Navigate to the project directory:
+   git clone https://github.com/LUCKYALI1/Basic-ReactJS-Projects/miniContext.git
+2. Navigate to the project directory:
    ```bash
-   cd contextapi-project
-3.Install dependencies:
+   cd miniContext
+3. Install dependencies:
    ```bash
    npm install
