@@ -15,6 +15,8 @@ This is a basic React  Application that convert the amount to different currenec
 This project demonstrates the use of React Router to create a single-page application (SPA) with multiple routes. React Router is a powerful library for client-side routing in React applications, allowing for seamless navigation without refreshing the page.
 ### 6-ContextApi
 Developed a small project utilizing React's Context API to manage and share state across components, ensuring efficient state management and improved application performance.
+### 7-ThemeSwitcher
+The ThemeSwitcher project is a React application featuring a small card component with a dark and light mode toggle functionality. Utilizing React's Context API, it centrally manages the theme state, allowing seamless switching between themes. The project demonstrates effective state sharing across components, eliminating the need for prop drilling. 
 
 # Getting Started:
 
@@ -28,3 +30,4 @@ Developed a small project utilizing React's Context API to manage and share stat
    `npm run dev`
 ### Contributing:
 Feel free to submit pull requests or open issues if you find any bugs or have suggestions for improvements.
+
