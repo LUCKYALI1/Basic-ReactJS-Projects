@@ -13,6 +13,8 @@ This is a basic React application that allows users to generate the password , i
 This is a basic React  Application that convert the amount to different currenecy using the api , in this i have created custom hooks and used in it . in future i will add some more features to it so this could be work with full efficiency.
 ### 5-ReactRouter
 This project demonstrates the use of React Router to create a single-page application (SPA) with multiple routes. React Router is a powerful library for client-side routing in React applications, allowing for seamless navigation without refreshing the page.
+### 6-ContextApi
+Developed a small project utilizing React's Context API to manage and share state across components, ensuring efficient state management and improved application performance.
 
 # Getting Started:
 
