@@ -24,7 +24,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/react-todo-list.git
+    git clone https://github.com/Luckyali1/Basic-ReactJs-Projects/TodoList.git
     ```
 
 2. Navigate to the project directory:
