@@ -1,8 +1,53 @@
-# React + Vite
+# React Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo List application built using React. The application allows users to add, edit, delete, and mark tasks as completed.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Todo**: Add a new task to the list.
+- **Edit Todo**: Edit an existing task.
+- **Delete Todo**: Remove a task from the list.
+- **Mark as Completed**: Toggle the completion status of a task.
+- **Responsive Design**: Works well on all screen sizes.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (v12 or later)
+- [npm](https://www.npmjs.com/) (comes with Node.js) or [Yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/react-todo-list.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd react-todo-list
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+    or
+
+    ```bash
+    yarn install
+    ```
+
+### Running the Application
+
+To start the development server, run:
+
+```bash
+npm start
