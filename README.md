@@ -19,6 +19,8 @@ Developed a small project utilizing React's Context API to manage and share stat
 The ThemeSwitcher project is a React application featuring a small card component with a dark and light mode toggle functionality. Utilizing React's Context API, it centrally manages the theme state, allowing seamless switching between themes. The project demonstrates effective state sharing across components, eliminating the need for prop drilling. 
 ### 7-Todo List
 A simple and intuitive Todo List application built with React. This app allows users to effortlessly manage their tasks by adding, editing, deleting, and marking them as completed. The responsive design ensures a smooth experience across all devices. Perfect for anyone looking to stay organized!
+### 7-TodoRedux
+"A simple and efficient Todo app built with React and Redux Toolkit for easy task management. Add, edit, and track your daily tasks seamlessly."
 
 
 # Getting Started:
