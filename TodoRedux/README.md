@@ -14,13 +14,3 @@ This is a simple and intuitive Todo application built using React and Redux Tool
 - **JavaScript (ES6+)**: Modern JavaScript features for better code management.
 - **CSS**: Styling the components.
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Node.js and npm installed on your local machine.
-
-- **Node.js**: [Download Node.js](https://nodejs.org/)
-- **npm**: Comes with Node.js, but you can update it with the following command:
-  ```bash
-  npm install npm@latest -g
